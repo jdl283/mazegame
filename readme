@@ -1,0 +1,18 @@
+Maze Game
+
+Controls
+- WASD to move
+
+It is recommended that you click the blue fullscreen button at the bottom right of the page for the best experience. 
+
+Objective: Collect your required number of cubes before the agent collects its required number of cubes, then find the exit. 
+
+How to start a game
+Click the "Play" button
+
+How to adjust the maze size
+Click the "Options" button on the main menu then use the slider to select a maze size. Larger mazes will take longer to generate.
+
+Know Issues/Bugs
+- Agent is not intelligent enough to collect the cubes it is closest to. Instead it collects the cubes in a defined order specifed before the game starts. Collecting a cube that the agent intended to collect can cause its AI to break.
+- Game runs poorly on lower end systems
